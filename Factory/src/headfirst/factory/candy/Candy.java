@@ -18,11 +18,11 @@ public abstract class Candy {
 //	}
 
 	void cut() {
-		System.out.println("Cutting the dosa into two pieces");
+		System.out.println("Shaping the candy");
 	}
 
 	void wrap() {
-		System.out.println("Wrapping dosa in official DosaCenter box");
+		System.out.println("Wrapping candy in official CandyStore box");
 	}
 
 	void setName(String name) {
